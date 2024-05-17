@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [3r08r.github.io](https://github.com/3r08r/3r08r.github.io)
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Discord: e_0r </h3>
 <p align="left">
 </p>
 
